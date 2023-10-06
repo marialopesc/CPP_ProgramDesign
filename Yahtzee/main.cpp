@@ -1,9 +1,3 @@
-/****************************
- * HEADER
- *
- * Starter code provided by: Dr. Sara Riazi
- * ***************************/
-
 
 #include <string>
 #include <iostream>
