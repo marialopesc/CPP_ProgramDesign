@@ -1,14 +1,3 @@
-/**------------------------------------------
-
-    Program 2: MineSweeper
-
-    Course: CS 141, Fall 2022.
-    System: MacOS using Clion
-    Starter Code Author: Dr. Sara Riazi
-    Student Author: Maria Bezerra Cunha
--------------------------------------------*/
-
-
 #include <iostream> // for cin and cout
 #include <string>
 
