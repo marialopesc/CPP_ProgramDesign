@@ -1,17 +1,3 @@
-/**********************************************************
-Program 4: IMDB
-
-Course: CS 141, Fall 2022, UIC
-
-System: DevC++ on MacBook Air
-
-Author: Ellen Kidane, starter code provided by Dr. Sara Riazi
-
-Student: Maria Bezerra Cunha
-
-Class: Kidane, 10am
- **********************************************************/
-
 #include <iostream>
 #include <cctype>
 #include <vector>
