@@ -1,26 +1,3 @@
-/**------------------------------------------
-
-    Program 1: Layered Pine Tree
-    Prompt for the number of tree layers and display
-    ASCII layered pine tree
-
-    Course: CS 141, Fall 2022.
-    System: MacOS and G++
-    Author: Dr. Sara Riazi
- ---------------------------------------------**/
-
-/*-------------------------------------------
-
-Program 1: The Pine Tree
-
-Course: CS 141, Fall 2022, UIC
-
-System: DevC++ on MacOS
-
-Author: Ellen Kidane, starter code provided by Sara Riazi
-
-------------------------------------------- */
-
 #include <iostream>   // for cin and cout
 #include <iomanip>    // for setw. The number in setw(...) is the total of blank spaces including the printed item.
 
