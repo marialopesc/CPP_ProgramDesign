@@ -6,21 +6,6 @@
 using namespace std;
 
 
-/****************************
-Program 3: Password Check
-
-Course: CS 141, Fall 2022, UIC
-
-System: DevC++ on MacBook Air
-
-Author: Ellen Kidane, starter code provided by Dr. Sara Riazi
-
-Student: Maria Bezerra Cunha
-
-Class: Kidane, 10am
- * *** **********************/
-
-
 const string rule_msg_1 = "The selected password must be at least eight characters long.";
 const string rule_msg_2 = "The selected password must have at least one uppercase letter.";
 const string rule_msg_3 = "The selected password must have at least one lowercase letter.";
